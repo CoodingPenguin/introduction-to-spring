@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/coodingpenguin/introduction-to-spring">
-    <img src="logo.png" alt="Logo" width="200">
+    <img src="logo.png" alt="Logo" width="50%">
   </a>
   <h1>Introduction to Spring</h1>
   <div>
