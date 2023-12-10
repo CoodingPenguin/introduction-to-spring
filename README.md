@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/coodingpenguin/introduction-to-spring">
+  <a href="https://github.com/coodingpenguin/spring-introduction">
     <img src="logo.png" alt="Logo" width="50%">
   </a>
   <h1>Spring Introduction</h1>
