@@ -2,7 +2,7 @@
   <a href="https://github.com/coodingpenguin/introduction-to-spring">
     <img src="logo.png" alt="Logo" width="50%">
   </a>
-  <h1>Introduction to Spring</h1>
+  <h1>Spring Introduction</h1>
   <div>
     <img src="https://img.shields.io/badge/강사-김영한-e76f51?style=for-the-badge"/>
     <a href="https://inf.run/hivx6"><img src="https://img.shields.io/badge/플랫폼-인프런-faa307?style=for-the-badge"/></a>
