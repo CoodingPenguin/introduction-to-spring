@@ -20,7 +20,7 @@
 
 ## 📝 목차
 
-<details>
+<details open>
 
 <summary><strong>목차 살펴보기</strong></summary>
 
